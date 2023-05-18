@@ -24,8 +24,6 @@ Your users should be able to:
 - If there are no errors, display the completed state
 - Reset the form when the user clicks "Continue" on the completed state
 
-**⚠️ IMPORTANT ⚠️: When you create the live version of your project, we recommmend giving it a random name for the URL. This is because with it being a fake credit card form, some browsers will open a warning notice before people can access your project. So it's best to name the project something unrelated to credit cards so that browsers don't show the warning to people viewing your project.**
-
 This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
@@ -43,13 +41,13 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
-![Mobile](./screenshot.jpg)
+![Desktop](https://drive.google.com/uc?export=view&id=1Gs8Etq7kIapyq-fthMWd1ZtJS_sbxa9D)
+![Mobile](https://drive.google.com/uc?export=view&id=1q5aFQyxuI9NpjQxgE43beqDC_3QFFsTp)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Demarcus11/interactive-details-form.git)
+- Live Site URL: [Live](https://demarcus11.github.io/interactive-details-form/)
 
 ## My process
 
